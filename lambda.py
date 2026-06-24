@@ -1,3 +1,5 @@
+#Lambda funtion examples...
+
 who_is_grater = lambda a, b: a if a > b else b
 print(who_is_grater(10, 25))
 #############################################################
